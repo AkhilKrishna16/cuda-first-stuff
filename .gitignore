@@ -1,0 +1,11 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+.cursor-server/
+.local/
+.cursor/
+.gds-nvidia-fs/
+.idea/

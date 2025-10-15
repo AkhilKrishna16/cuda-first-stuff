@@ -1,0 +1,7 @@
+sos 4.8.2 https://github.com/sosreport/sos
+chardet 4.0.0 https://github.com/chardet/chardet
+pycairo 1.28.0 https://github.com/pygobject/pycairo
+systemd-python 234 https://github.com/systemd/python-systemd
+autocommand 2.2.2 https://github.com/Lucretiel/autocommand
+certifi 2025.10.5 https://github.com/certifi/python-certifi
+docutils 0.19 https://github.com/docutils/docutils
